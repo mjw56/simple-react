@@ -1,6 +1,8 @@
 simple-react
 ============
 
+ES5 React + Redux Counter
+
 # Run Locally
 
 ```bash
